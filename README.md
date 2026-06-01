@@ -25,9 +25,6 @@ start using the package.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
 ```dart
 import 'package:flutter/material.dart';
 import 'package:zg_im_scroll_list/zg_im_scroll_list.dart';
