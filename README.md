@@ -1,0 +1,2 @@
+# FlutterPlugin-ZgDirectionalScrollList
+Im聊天双向列表
